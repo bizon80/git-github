@@ -1,2 +1,2 @@
 # git-github
-Test account
+This is for tutorial purpose.
